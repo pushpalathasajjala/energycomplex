@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout="wide")  # FULL-SCREEN WIDTH DASHBOARD
 
 # ---------------- DATA LOAD ---------------- #
-df = pd.read_csv("energy_full_output.csv")  # Your final dataset
+df = pd.read_excel("forecast_results_2024_2029 (5) (1).xlsx")  # Your final dataset
 
 st.title("🔋 Global Energy Forecast Interactive Dashboard")
 
