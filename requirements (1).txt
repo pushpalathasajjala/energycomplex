@@ -2,3 +2,6 @@ streamlit
 openpyxl
 matplotlib
 seaborn
+pandas
+openpyxl
+scikit-learn
